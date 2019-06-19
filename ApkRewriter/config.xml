@@ -1,7 +1,0 @@
-<config>
-	<payload location="/Users/benandow/Desktop/UiRefOpenSource/uiref/ApkRewriter/payload"/>
-	<keystore location="/Users/benandow/Desktop/UiRefOpenSource/uiref/ApkRewriter/com_benandow_ncsu_android_gui.keystore" storepass="44125ba$!" keypass="44125ba$!" keystoreAlias="gui_ripper"/>
-	<apktool location="/Users/benandow/bin/apktool" timeout="600"/>
-	<apksigner location="/Users/benandow/Library/Android/sdk/build-tools/27.0.2/apksigner"/>
-	<zipalign location="/Users/benandow/Library/Android/sdk/build-tools/27.0.2/zipalign"/>
-</config>
